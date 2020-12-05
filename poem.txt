@@ -4,6 +4,7 @@ Roses are red
 Violets are blue
 Leaves are green
 Daisies are yellow
+Indigo
 But rainbows have all the colors
 Flowers are inadequate
 
